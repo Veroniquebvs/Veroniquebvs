@@ -32,13 +32,12 @@ Je recherche une opportunité (alternance / premier poste) en :
 - HTML / CSS
 - Git / GitHub
 
-## 📊 Mes statistiques GitHub
+## Mes stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Veroniquebvs\&show_icons=true)
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veroniquebvs\&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Veroniquebvs)
 
 ## Me contacter
 
