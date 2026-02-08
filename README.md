@@ -34,9 +34,9 @@ Je recherche une opportunité (alternance / premier poste) en :
 
 ## Mes stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Veroniquebvs\&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Veroniquebvs&show_icons=true)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veroniquebvs\&layout=compact)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veroniquebvs&layout=compact)
 
 
 ## Me contacter
