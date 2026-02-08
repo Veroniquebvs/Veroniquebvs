@@ -26,7 +26,7 @@ Je recherche une opportunité (alternance / premier poste) en :
 
 ## Compétences en cours d’acquisition
 
-## 🛠️ Compétences en cours d’acquisition
+## Compétences en cours d’acquisition
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
