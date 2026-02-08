@@ -47,5 +47,5 @@ Je recherche une opportunité (alternance / premier poste) en :
 
 ## Me contacter
 
-- LinkedIn : www.linkedin.com/in/véronique-beauvais-076a01195
+- LinkedIn : www.linkedin.com/in/veronique-beauvais
 
