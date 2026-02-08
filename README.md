@@ -26,21 +26,22 @@ Je recherche une opportunité (alternance / premier poste) en :
 
 ## Compétences en cours d’acquisition
 
-- Python
-- JavaScript
-- SQL
-- HTML / CSS
-- Git / GitHub
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
-
-## 📊 Mes statistiques GitHub
+## Mes statistiques GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Veroniquebvs&show_icons=true)
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veroniquebvs&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Veroniquebvs)
-
 
 ## Me contacter
 
