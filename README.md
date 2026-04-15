@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c’est Véronique
 
-🎓 Étudiante à Holberton School  
+🎓 Étudiante à Holberton School sur le campus de Toulouse
 💼 En reconversion professionnelle (ex-chargée de recrutement)  
 💻 Intéressée par le développement Full-Stack et la Data Analyse  
 
