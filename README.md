@@ -2,7 +2,7 @@
 
 Après 15 ans d'expérience dans la gestion de flux opérationnels, j'ai choisi de mettre ma rigueur et ma maturité professionnelle au service de l'ingénierie des données et de la Business Intelligence.
 
-Actuellement diplômée d'**Holberton School** (Toulouse), je combine une forte logique algorithmique backend avec des compétences pointues en analyse de données.
+Diplômée d'**Holberton School** en juillet 2026, je combine une forte logique algorithmique backend avec des compétences pointues en analyse de données.
 
 ##  Projet Phare du Moment (En Cours)
 
@@ -35,10 +35,10 @@ Je travaille activement sur mon projet de fin d'études combinant la méthodolog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-107C41?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="40" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Excel-107C41?style=flat-square&logo=microsoft-excel&logoColor=white" height="40" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="40" alt="BigQuery"/>
 </p>
 
 ## Mes statistiques GitHub
@@ -55,5 +55,5 @@ Je travaille activement sur mon projet de fin d'études combinant la méthodolog
 
 - beauvais.veronique@gmail.com
 
-- * **Localisation :** Toulouse, France (Mobilité : Permis B & Véhiculée)
+- **Localisation :** Toulouse, France (Mobilité : Permis B & Véhiculée)
 
