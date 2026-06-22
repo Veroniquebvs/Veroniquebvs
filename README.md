@@ -1,31 +1,31 @@
 # 👋 Bonjour, moi c’est Véronique
 
-🎓 Étudiante à Holberton School sur le campus de Toulouse  
-💼 En reconversion professionnelle (ex-chargée de recrutement)  
-💻 Intéressée par le développement Full-Stack et la Data Analyse  
+Après 15 ans d'expérience dans la gestion de flux opérationnels, j'ai choisi de mettre ma rigueur et ma maturité professionnelle au service de l'ingénierie des données et de la Business Intelligence.
 
-## À propos de moi
+Actuellement diplômée d'**Holberton School** (Toulouse), je combine une forte logique algorithmique backend avec des compétences pointues en analyse de données.
 
-J’aime comprendre comment fonctionnent les systèmes, analyser des données et construire des applications utiles.
+##  Projet Phare du Moment (En Cours)
 
-Je suis actuellement en formation à Holberton School où je développe des compétences en :
-- développement web full-stack
-- programmation
-- analyse de données
+### [google-data-analytics-capstone-holberton](https://github.com/Veroniquebvs/google-data-analytics-capstone-holberton)
+Je travaille activement sur mon projet de fin d'études combinant la méthodologie Google Data Analytics et les exigences d'Holberton School.
+* **Objectif :** Réaliser une étude de cas de bout en bout (Exploratory Data Analysis - EDA).
+* **Au programme :** Collecte, nettoyage de données complexes, modélisation statistique et création de dashboards pour le Data Storytelling.
+* **Stack technique :** Python (Pandas/NumPy), SQL, Google BigQuery, Tableau.
 
-Mon passé en recrutement me donne un vrai plus :
-- compréhension des besoins métiers
-- communication
-- travail en équipe
+## Certifications Obtenues
 
-## Objectif
+*  **Google Data Analytics Professional Certificate** (Maîtrise du cycle complet de la donnée)
+*  **IBM SQL & Relational Databases 101** (Requêtage complexe & modélisation relationnelle)
+*  **IBM Cybersecurity Fundamentals** (Sécurisation et confidentialité des flux de données)
+*  **IBM Project Management & Agile** (Méthodologies Scrum, cycle de vie projet)
 
-Je recherche une opportunité (alternance / premier poste) en :
-- Développement Full-Stack
-- Data Analyse
+## 📈 Mes Derniers Projets Techniques
+
+* **PRIM'O :** Développement backend (Node.js/Express) et architecture relationnelle sous PostgreSQL avec gestion de transactions atomiques.
+* **Hbnb Clone :** Conception complète de la logique métier d'un clone d'application web et modélisation de base de données.
 
 ## Compétences
-
+ 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
@@ -35,6 +35,10 @@ Je recherche une opportunité (alternance / premier poste) en :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-107C41?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 </p>
 
 ## Mes statistiques GitHub
@@ -50,4 +54,6 @@ Je recherche une opportunité (alternance / premier poste) en :
 - LinkedIn : www.linkedin.com/in/veronique-beauvais
 
 - beauvais.veronique@gmail.com
+
+- * **Localisation :** Toulouse, France (Mobilité : Permis B & Véhiculée)
 
