@@ -41,7 +41,6 @@ Je travaille activement sur mon projet de fin d'études combinant la méthodolog
   <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="40" alt="BigQuery"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="40" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="40" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="40" alt="Git"/>
 </p>
 
 ## Mes statistiques GitHub
