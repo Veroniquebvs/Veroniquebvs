@@ -19,7 +19,7 @@ Je travaille activement sur mon projet de fin d'études combinant la méthodolog
 *  **IBM Cybersecurity Fundamentals** (Sécurisation et confidentialité des flux de données)
 *  **IBM Project Management & Agile** (Méthodologies Scrum, cycle de vie projet)
 
-## 📈 Mes Derniers Projets Techniques
+## Mes Derniers Projets Techniques
 
 * **PRIM'O :** Développement backend (Node.js/Express) et architecture relationnelle sous PostgreSQL avec gestion de transactions atomiques.
 * **Hbnb Clone :** Conception complète de la logique métier d'un clone d'application web et modélisation de base de données.
@@ -39,6 +39,9 @@ Je travaille activement sur mon projet de fin d'études combinant la méthodolog
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="40" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Excel-107C41?style=flat-square&logo=microsoft-excel&logoColor=white" height="40" alt="Excel"/>
   <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="40" alt="BigQuery"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="40" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="40" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="40" alt="Git"/>
 </p>
 
 ## Mes statistiques GitHub
